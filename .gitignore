@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.mov 
+*.mp4 
+*.mxf 
+*.prores 
+*.movtext 
+*.xml 
 # C extensions
 *.so
 
